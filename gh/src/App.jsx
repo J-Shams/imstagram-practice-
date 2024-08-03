@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Instagram-Start</div>
+    <div>Instagram-Start
+      <p>lkjhgfgut</p>
+    </div>
   )
 }
 
